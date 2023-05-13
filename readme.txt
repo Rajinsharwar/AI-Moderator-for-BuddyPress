@@ -20,7 +20,7 @@ Ready to use cutting-edge AI technology to put your community's moderation in au
 
 2. Once you’ve created an account or have logged into an existing account, you’ll see your name and your profile icon at the top-right corner of OpenAI’s platform homepage.
 
-3. To get an API Key, click on your name in the top-right corner to bring up a dropdown menu. Then, click the “[View API keys](https://platform.openai.com/account/api-keys)” option. 
+3. To get an API Key, click on your name in the top-right corner to bring up a dropdown menu. Then, click the “ [View API keys](https://platform.openai.com/account/api-keys) ” option. 
 
 4. At this point, you’ll be on a page that has an option to “Create new secret key” near the center. If you do not have an API key, click this button to get one. Make sure to save the API key as soon as possible. Once the window showing it closes, you won’t be able to reopen it. 
 
