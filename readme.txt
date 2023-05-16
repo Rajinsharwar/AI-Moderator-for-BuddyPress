@@ -1,6 +1,6 @@
 === AI Moderator for BuddyPress ===
 Contributors: rajinsharwar
-Tags: ai, openai, buddypress, buddyboss, moderation, ai bot, bot
+Tags: ai, moderator, community, social, openai, buddypress, buddyboss, moderation, ai bot, bot
 Requires at least: 3.9
 Tested up to: 6.2
 Requires PHP: 5.6
@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 AI Moderator for BuddyPress is a WordPress plugin that uses OpenAI to automatically moderate your activity feed posts from BuddyPress and BuddyBoss.
+
+https://www.youtube.com/watch?v=Luz_Mv7MZAc
 
 == HOW DOES IT WORKS? ==
 IMPORTANT: In order to use this plugin, you will need to provide your own OpenAI API key as this is a Bring-Your-Own-Key (BYOK) plugin.
@@ -50,18 +52,21 @@ None of your personal data, such as you WordPress email, or username gets shared
 3. Go to 'AI Moderator' in the BuddyPress admin menu and configure the plugin settings
 
 == Features ==
-<ol> Moderates activity feed posts using OpenAI. </ol>
-<ol> Allows you to enable or disable moderation of activity posts. </ol>
-<ol> Allows you to choose the AI model to use for sending requests to OpenAI. </ol>
-<ol> Allows you to define a list of prohibited words that will trigger moderation. </ol>
-<ol> Allows you to set an OpenAI API key for sending requests to OpenAI. </ol>
-<ol> Allows you to define the notification message that will be displayed to users whose posts have been moderated </ol>
-<ol> Allows you to set an URL to the notification that will be sent to the user when his post will be marked as spam. </ol>
+* Moderates activity feed posts using OpenAI.
+* Allows you to enable or disable moderation of activity posts.
+* Allows you to choose the AI model to use for sending requests to OpenAI.
+* Allows you to define a list of prohibited words that will trigger moderation.
+* Allows you to set an OpenAI API key for sending requests to OpenAI.
+* Allows you to define the notification message that will be displayed to users whose posts have been moderated.
+* Allows you to set an URL to the notification that will be sent to the user when his post will be marked as spam.
 
 == Configuration ==
 To configure the plugin, go to 'AI Moderator' in the BuddyPress admin menu. Here, you can enable or disable moderation, choose the AI model to use, define the list of prohibited words, set the OpenAI API key, set the post policy URL, and define the notification message.
 
 Note: This plugin won't work unless you enable moderation check.
+
+== Documentation ==
+Visit the [documentation](https://rajinsharwar.github.io/ai-moderator-bp-&-bb) of the plugin to get more technical details about the features, and configurations.
 
 == Credits ==
 AI Moderator for BuddyPress was developed by Rajin Sharwar.
